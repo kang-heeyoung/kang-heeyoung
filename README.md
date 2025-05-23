@@ -12,23 +12,23 @@
   한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행 -> [논문(KCC 게재)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862528)
 
 
-- I-Taxi 1기 (22.05.09 ~ 22.11.20)
-  학교 내 학생들 간의 택시 및 카풀 매칭을 도와주는 어플
-  Flutter를 이용하여 로그인 및 환경설정 기능 개발 및 유저 피드백 보완 및 수정
+- I-Taxi 1기 (22.05.09 ~ 22.11.20) <br>
+  학교 내 학생들 간의 택시 및 카풀 매칭을 도와주는 어플 <br>
+  Flutter를 이용하여 로그인 및 환경설정 기능 개발 및 유저 피드백 보완 및 수정 <br>
   Flutter, Firebase
 
-- StudyTogether (21.04.28 ~ 21.11.22)
-  학부 별 Q&A 게시판
-  Flutter를 이용한 프론트엔드 개발
+- StudyTogether (21.04.28 ~ 21.11.22) <br>
+  학부 별 Q&A 게시판 <br>
+  Flutter를 이용한 프론트엔드 개발 <br>
   Flutter, Firebase, PostMan, Node.js, MySQL
 
 🏃‍♀️ Career
 ---
 - 멋쟁이사자처럼 유니티 게임 개발 5기 (25.05.13 ~ ing)
 - CRA 동아리 회장 (24.07.22 ~ 24.12.13) 
-- CRA 1기 I-Taxi 기획 및 프론트엔드 개발자 (22.05.09 ~ 22.11.20)
+- CRA 1기 I-Taxi 기획 및 프론트엔드 개발자 (22.05.09 ~ 22.11.20) <br>
   팀 구성, Flutter 프론트엔드, 앱 출시(iOS/Android)
-- HugIn 인턴(21.12.20 ~ 22.02.18)
+- HugIn 인턴(21.12.20 ~ 22.02.18) <br>
   Flutter를 활용하여 디자이너와 함께 HugIn 어플 리팩토링 
 
 🏆 Awards
