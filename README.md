@@ -9,20 +9,19 @@
 💻 Projects
 ---
 - **Chronova 게임 개발** (3인, 25.03.11 ~ ing) <br>
-  유니티로 2D 카드 게임 기획 및 개발
+  유니티로 2D 카드 게임 기획 및 개발 -> [Github](https://github.com/kang-heeyoung/Chronova)
 
 - **포인트클라우드를 활용한 다자간 실시간 스트리밍 시스템 개발** (5인, 23.08.01 ~ 24.06.24) <br>
   한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행 -> [논문(KCC 게재)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862528)
 
 - **I-Taxi 1기** (6인, 22.05.09 ~ 22.11.20) <br>
   학교 내 학생들 간의 택시 및 카풀 매칭을 도와주는 어플 <br>
-  Flutter를 이용하여 로그인 및 환경설정 기능 개발 및 유저 피드백 보완 및 수정 <br>
-  Flutter, Firebase
+  Flutter를 이용하여 로그인 및 환경설정 기능 개발 및 유저 피드백 보완 및 수정 -> [Github](https://github.com/I-Taxi/itaxi-front)
 
 - **StudyTogether** (5인, 21.04.28 ~ 21.11.22) <br>
   학부 별 Q&A 게시판 <br>
   Flutter를 이용한 프론트엔드 개발 <br>
-  Flutter, Firebase, PostMan, Node.js, MySQL
+  Flutter, Firebase, PostMan, Node.js, MySQL -> [Github](https://github.com/AnJW-HGU/2021CRASummer)
 
 🏃‍♀️ Career
 ---
