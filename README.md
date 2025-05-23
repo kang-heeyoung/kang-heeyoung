@@ -48,7 +48,7 @@
 
 🕶 사용 언어
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-heeyoung&layout=demo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-heeyoung&layout=compact&theme=dark)
 
 📈 Solved.ac
 ---
