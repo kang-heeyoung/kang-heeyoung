@@ -3,8 +3,8 @@
 
 ⚙ Tech Stack
 ---
-- Frontend: HTML/CSS/JavaScript, Flutter
-- Tooling : Github, Slack, Atlassian
+- **Frontend:** HTML/CSS/JavaScript, Flutter
+- **Tooling :** Github, Slack, Atlassian
 
 💻 Projects
 ---
