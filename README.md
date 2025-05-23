@@ -1,5 +1,4 @@
 ## Hi there, I'm Kang-heeyoung 👋
----
 새로운 것에 두려움이 없는 개발자, 강희영입니다 :)
 
 ⚙ Tech Stack
