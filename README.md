@@ -3,7 +3,7 @@
 
 ⚙ Tech Stack
 ---
-- **Frontend:** HTML/CSS/JavaScript, Flutter
+- **Frontend:** Flutter, Unity
 - **Tooling :** Github, Slack, Atlassian
 
 💻 Projects
