@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
 </a>
 <a href="https://k-hyoung.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=black">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
 
 📊 Github Stats
