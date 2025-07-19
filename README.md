@@ -8,6 +8,9 @@
 
 💻 Projects
 ---
+- **Capybara 게임 개발** (25.07.08 ~ ing 2인) <br>
+  유니티로 하이퍼캐주얼 게임 기획 및 개발 -> [Github](https://github.com/toss-Project-Hyper-Casual-Game/demo-repository)
+  
 - **Chronova 게임 개발** (25.03.11 ~ ing, 3인) <br>
   유니티로 2D 카드 게임 기획 및 개발 -> [Github](https://github.com/kang-heeyoung/Chronova)
 
