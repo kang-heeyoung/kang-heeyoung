@@ -8,6 +8,9 @@
 
 💻 Projects
 ---
+- **오목 게임 개발** (25.09.10 ~ 25.09.21 5인> <br>
+  유니티로 멀티플레이 오목 게임 개발 -> [Gibhub](https://github.com/kirbyEATStrawberryCake/omok-20/tree/main)
+
 - **Capybara 게임 개발** (25.07.08 ~ ing 2인) <br>
   유니티로 하이퍼캐주얼 게임 기획 및 개발 -> [Github](https://github.com/toss-Project-Hyper-Casual-Game/demo-repository)
   
