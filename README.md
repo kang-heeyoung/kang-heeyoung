@@ -8,11 +8,14 @@
 
 💻 Projects
 ---
-- **오목 게임 개발** (25.09.10 ~ 25.09.21 5인> <br>
-  유니티로 멀티플레이 오목 게임 개발 -> [Gibhub](https://github.com/kirbyEATStrawberryCake/omok-20/tree/main)
+- **UnemPloyed 게임 개발** (25.10.13 ~ 25.11.12 7인> <br>
+  유니티로 멀티플레이 리썰류 게임 개발 -> [Github](https://github.com/Seo98/P_Ued)
 
-- **Capybara 게임 개발** (25.07.08 ~ ing 2인) <br>
-  유니티로 하이퍼캐주얼 게임 기획 및 개발 -> [Github](https://github.com/toss-Project-Hyper-Casual-Game/demo-repository)
+- **오목 게임 개발** (25.09.10 ~ 25.09.21 5인> <br>
+  유니티로 멀티플레이 오목 게임 개발 -> [Github](https://github.com/kirbyEATStrawberryCake/omok-20/tree/main)
+
+- **Capybara 게임 개발** (25.07.08 ~ 10.14 2인) <br>
+  유니티로 하이퍼캐주얼 게임 기획 및 개발 -> [Github](https://github.com/toss-Project-Hyper-Casual-Game/toss-Project)
   
 - **Chronova 게임 개발** (25.03.11 ~ ing, 3인) <br>
   유니티로 2D 카드 게임 기획 및 개발 -> [Github](https://github.com/kang-heeyoung/Chronova)
