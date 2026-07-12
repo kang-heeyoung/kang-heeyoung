@@ -3,8 +3,8 @@
 
 ⚙ Tech Stack
 ---
-- **Frontend:** Flutter, Unity
-- **Tooling :** Github, Slack, Atlassian
+- **Frontend:** Unity, C#, Python, Flutter
+- **Tooling :** Github, Slack, Jira, Confluence, PostMan
 
 💻 Projects
 ---
