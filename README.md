@@ -6,6 +6,12 @@
 - **Frontend:** Unity, C#, Python, Flutter
 - **Tooling :** Github, Slack, Jira, Confluence, PostMan
 
+📋 TestCase
+---
+- 로스트아크 낙원 콘텐츠 (26.07.01 ~ 26.07.12) <br>
+  낙원 콘텐츠에 대한 TC 작성 -> [TestCase](https://docs.google.com/spreadsheets/d/1sWXnz3IEfh6MHV99k8P_vuA_aQz8KxDEQVjAdXVJEh8/edit?gid=212793108#gid=212793108)
+
+
 💻 Projects
 ---
 - **WorkLoop 게임 개발** (26.04.28 ~ ing, 2인) <br>
