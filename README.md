@@ -4,7 +4,8 @@
 ⚙ Tech Stack
 ---
 - **Frontend:** Unity, C#, Python, Flutter
-- **Tooling :** Github, Slack, Jira, Confluence, PostMan
+- **Tooling :** Github, Slack, Jira, Confluence
+- **Littles :** PostMan, Swagger
 
 📋 TestCase
 ---
