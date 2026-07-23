@@ -1,5 +1,5 @@
 ## Hi there, I'm Kang-heeyoung 👋
-새로운 것에 두려움이 없는 QA, 강희영입니다 :)
+장기적으로 안정적인 서비스를 제공하는 것에 관심 있는 QA Engineer, 강희영입니다 :)
 
 ⚙ Tech Stack
 ---
