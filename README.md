@@ -73,7 +73,7 @@
 
 🕶 사용 언어
 ---
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=kang-heeyoung&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kang-heeyoung&layout=compact&theme=dark)
 
 📈 Solved.ac
 ---
