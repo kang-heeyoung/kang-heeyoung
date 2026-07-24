@@ -69,7 +69,7 @@
 
 📊 Github Stats
 ---
-![Heeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-heeyoung&show_icons=true&theme=radical)
+![Heeyoung's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kang-heeyoung&show_icons=true&theme=radical)
 
 🕶 사용 언어
 ---
